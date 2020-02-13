@@ -1,0 +1,14 @@
+C:\dev\DMTools\DmTools\DmTools\bin\Debug\netcoreapp2.2\DmTools.deps.json
+C:\dev\DMTools\DmTools\DmTools\bin\Debug\netcoreapp2.2\DmTools.runtimeconfig.json
+C:\dev\DMTools\DmTools\DmTools\bin\Debug\netcoreapp2.2\DmTools.runtimeconfig.dev.json
+C:\dev\DMTools\DmTools\DmTools\bin\Debug\netcoreapp2.2\DmTools.dll
+C:\dev\DMTools\DmTools\DmTools\bin\Debug\netcoreapp2.2\DmTools.pdb
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.csprojAssemblyReference.cache
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.csproj.CoreCompileInputs.cache
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.RazorAssemblyInfo.cache
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.RazorAssemblyInfo.cs
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.AssemblyInfoInputs.cache
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.AssemblyInfo.cs
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.RazorTargetAssemblyInfo.cache
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.dll
+C:\dev\DMTools\DmTools\DmTools\obj\Debug\netcoreapp2.2\DmTools.pdb
