@@ -1,0 +1,8 @@
+C:\dev\DMTools\DmNotes\DmNotes\bin\Debug\netcoreapp2.2\DmNotes.deps.json
+C:\dev\DMTools\DmNotes\DmNotes\bin\Debug\netcoreapp2.2\DmNotes.runtimeconfig.json
+C:\dev\DMTools\DmNotes\DmNotes\bin\Debug\netcoreapp2.2\DmNotes.runtimeconfig.dev.json
+C:\dev\DMTools\DmNotes\DmNotes\bin\Debug\netcoreapp2.2\DmNotes.dll
+C:\dev\DMTools\DmNotes\DmNotes\obj\Debug\netcoreapp2.2\DmNotes.csprojAssemblyReference.cache
+C:\dev\DMTools\DmNotes\DmNotes\obj\Debug\netcoreapp2.2\DmNotes.csproj.CoreCompileInputs.cache
+C:\dev\DMTools\DmNotes\DmNotes\obj\Debug\netcoreapp2.2\DmNotes.AssemblyInfoInputs.cache
+C:\dev\DMTools\DmNotes\DmNotes\obj\Debug\netcoreapp2.2\DmNotes.AssemblyInfo.cs
